@@ -1,0 +1,10 @@
+D:\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\bin\AnyCPU\Debug\PolylineDecodePolyline.dll
+D:\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\bin\AnyCPU\Debug\PolylineDecodePolyline.pdb
+D:\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Debug\PolylineDecodePolyline.csprojResolveAssemblyReference.cache
+D:\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Debug\PolylineDecodePolyline.dll
+D:\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Debug\PolylineDecodePolyline.pdb
+C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\bin\AnyCPU\Debug\PolylineDecodePolyline.dll
+C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\bin\AnyCPU\Debug\PolylineDecodePolyline.pdb
+C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Debug\PolylineDecodePolyline.csprojResolveAssemblyReference.cache
+C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Debug\PolylineDecodePolyline.dll
+C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Debug\PolylineDecodePolyline.pdb

@@ -1,0 +1,71 @@
+<!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta32.1.dtd" >
+   <PATCH nodename="C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\PolylineDecoder.v4p" systemname="PolylineDecoder" filename="C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\PolylineDecoder.v4p">
+   <BOUNDS type="Window" left="6300" top="3750" width="9000" height="6000">
+   </BOUNDS>
+   <PACK Name="addonpack" Version="31.9.0">
+   </PACK>
+   <NODE systemname="DecodePolyline (Polyline)" filename="PolylineDecodePolyline.dll" nodename="DecodePolyline (Polyline)" componentmode="Hidden" id="0">
+   <BOUNDS type="Node" left="3405" top="2325" width="100" height="100">
+   </BOUNDS>
+   </NODE>
+   <NODE nodename="IOBox (Value Advanced)" componentmode="InABox" id="2" systemname="IOBox (Value Advanced)">
+   <BOUNDS type="Box" left="870" top="3570" width="2505" height="1275">
+   </BOUNDS>
+   <BOUNDS type="Node" left="870" top="3570" width="0" height="0">
+   </BOUNDS>
+   <PIN pinname="Units" slicecount="1" values="||">
+   </PIN>
+   <PIN pinname="Precision" slicecount="1" values="4">
+   </PIN>
+   <PIN pinname="Rows" slicecount="1" values="3">
+   </PIN>
+   <PIN pinname="Y Input Value" visible="1" slicecount="9" values="41.87237,41.85089,41.82097,41.85652,41.81969,41.82327,41.85294,41.89129,41.81636">
+   </PIN>
+   <PIN pinname="Vector Size" slicecount="1" values="3">
+   </PIN>
+   <PIN pinname="Default" slicecount="1" values="|0, 0, 0|">
+   </PIN>
+   <PIN pinname="Columns" slicecount="1" values="3">
+   </PIN>
+   </NODE>
+   <NODE nodename="IOBox (Value Advanced)" componentmode="InABox" id="1" systemname="IOBox (Value Advanced)">
+   <BOUNDS type="Box" left="4395" top="3630" width="2820" height="1290">
+   </BOUNDS>
+   <BOUNDS type="Node" left="4395" top="3630" width="0" height="0">
+   </BOUNDS>
+   <PIN pinname="Units" slicecount="1" values="||">
+   </PIN>
+   <PIN pinname="Precision" slicecount="1" values="4">
+   </PIN>
+   <PIN pinname="Rows" slicecount="1" values="3">
+   </PIN>
+   <PIN pinname="Y Input Value" visible="1" slicecount="9" values="-87.66678,-87.63004,-87.67124,-87.70008,-87.61253,-87.7018,-87.70454,-87.63966,-87.64069">
+   </PIN>
+   <PIN pinname="Vector Size" slicecount="1" values="3">
+   </PIN>
+   <PIN pinname="Default" slicecount="1" values="|0, 0, 0|">
+   </PIN>
+   <PIN pinname="Columns" slicecount="1" values="3">
+   </PIN>
+   </NODE>
+   <NODE nodename="IOBox (String)" componentmode="InABox" id="3" systemname="IOBox (String)">
+   <BOUNDS type="Box" left="2175" top="555" width="3510" height="705">
+   </BOUNDS>
+   <BOUNDS type="Node" left="2175" top="555" width="0" height="0">
+   </BOUNDS>
+   <PIN pinname="Input String" slicecount="3" values="ieq~FjlavOfeCsdF~yDn`G,|gbn~Fn||gvOdeFebPkU||lP|,{km~FjxhvOunFotKhsMlE">
+   </PIN>
+   <PIN pinname="Default" slicecount="1" values="||">
+   </PIN>
+   <PIN pinname="File Mask" slicecount="1" values="||">
+   </PIN>
+   <PIN pinname="Maximum Characters" slicecount="1" values="-1">
+   </PIN>
+   <PIN pinname="Rows" slicecount="1" values="3">
+   </PIN>
+   <PIN pinname="SliceCount Mode" slicecount="1" values="ColsRowsPages">
+   </PIN>
+   <PIN pinname="Output String" visible="1">
+   </PIN>
+   </NODE>
+   </PATCH>
