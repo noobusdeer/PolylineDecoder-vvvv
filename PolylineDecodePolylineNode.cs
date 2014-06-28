@@ -32,6 +32,9 @@ namespace VVVV.Nodes
         [Output("Longtitude")]
         public ISpread<double> FLongitude;
 
+        [Output("BinSize")]
+        public ISpread<double> FBinSize;
+
 		[Import()]
 		public ILogger FLogger;
 		#endregion fields & pins
@@ -42,6 +45,7 @@ namespace VVVV.Nodes
            
             List<double> lat = new List<double>();
             List<double> lon = new List<double>();
+            List<double> bin = new List<double>();
             int index = 0;
             try
             {
@@ -49,6 +53,7 @@ namespace VVVV.Nodes
                 {
                     var res = DecodePolylinePoints(FPolyline[i]);
                     index = index + res.Count;
+                    bin.Add(res.Count);
                     for (int j = 0; j < res.Count; j++)
                     {
                         lat.Add(res[j].Latitude);
@@ -58,6 +63,9 @@ namespace VVVV.Nodes
                 }
                 FLatitude.SliceCount = index;
                 FLongitude.SliceCount = index;
+                FBinSize.SliceCount = SpreadMax;
+                for (int i = 0; i < bin.Count; i++)
+                    FBinSize[i] = bin[i];
                 for (int i = 0; i < index; i++)
                 {
                     FLatitude[i] = lat[i];

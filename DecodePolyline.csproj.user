@@ -2,7 +2,7 @@
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
-    <StartProgram>D:\program_files\vvvv_45beta32.1_x86\vvvv.exe</StartProgram>
-    <StartArguments>/o "D:\Dropbox\work\PolylineDecoder-vvvvx86\Debug.v4p"</StartArguments>
+    <StartProgram>C:\Program Files %28x86%29\vvvv_32.1_x86\vvvv.exe</StartProgram>
+    <StartArguments>/o "C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\Debug.v4p"</StartArguments>
   </PropertyGroup>
 </Project>

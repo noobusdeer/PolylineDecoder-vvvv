@@ -4,3 +4,6 @@ C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodeP
 C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Release\PolylineDecodePolyline.csprojResolveAssemblyReference.cache
 C:\Users\noobusdeer\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Release\PolylineDecodePolyline.dll
 D:\Dropbox\work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Release\PolylineDecodePolyline.csprojResolveAssemblyReference.cache
+C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Release\PolylineDecodePolyline.csprojResolveAssemblyReference.cache
+C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\obj\Release\PolylineDecodePolyline.dll
+C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\plugins\PolylineDecodePolyline\PolylineDecodePolyline.dll
