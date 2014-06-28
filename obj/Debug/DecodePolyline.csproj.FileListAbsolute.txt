@@ -1,0 +1,5 @@
+C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\obj\Debug\DecodePolyline.csprojResolveAssemblyReference.cache
+C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\obj\Debug\DecodePolyline.dll
+C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\obj\Debug\DecodePolyline.pdb
+C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\DecodePolyline.dll
+C:\Users\noobusdeer\Dropbox\my-work\PolylineDecoder-vvvvx86\DecodePolyline.pdb
